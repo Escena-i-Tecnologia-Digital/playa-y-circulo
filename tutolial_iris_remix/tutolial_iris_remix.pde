@@ -1,4 +1,4 @@
-/*boolean isFade = false;
+/*boolean isFade = false; //<>//
 Boolean isCirculo = false;
 PImage img; // declaramos la variable para imagen
 PImage img2;
